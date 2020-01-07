@@ -55,9 +55,8 @@ main {
 	}
 	.box {
 		width: 90%;
-		margin: 0 auto;
+		margin: 20px auto 0;
 		float: none;
-		margin-top: 20px;
 	}
 	.box:first-child {
 		margin-top: 0;
