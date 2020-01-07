@@ -55,12 +55,15 @@ main {
 	}
 	.box {
 		width: 90%;
+		margin: 50px auto;
 		float: none;
 		margin-top: 20px;
-		margin-right: 0;
 	}
 	.box:first-child {
 		margin-top: 0;
+	}
+	.box:last-child {
+		margin-right: auto;
 	}
 
 }
